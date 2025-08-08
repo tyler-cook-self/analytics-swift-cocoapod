@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name          = "Segment"
+  spec.name          = "analytics-swift-cocoapod"
   spec.version       = "1.8.0"
   spec.summary       = "The hassle-free way to integrate analytics into any iOS application."
   spec.description   = <<-DESC
